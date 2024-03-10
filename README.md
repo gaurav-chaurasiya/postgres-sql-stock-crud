@@ -6,7 +6,7 @@ Postgress and Golang API
 install packages command
 
 
-mkdir go-postgres-sql-stock
+mkdir go-postgres-sql-stock \n
 cd go-postgres-sql-stock
 go mod go-postgres-sql-stock
 go mod init go-postgres-sql-stock
